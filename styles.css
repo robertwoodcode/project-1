@@ -153,7 +153,6 @@ a.social {
   transition: all .5s;
 }
 
-}
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
@@ -220,11 +219,11 @@ a.social:hover {
   border: none;
   border-radius: 4px;
   background-color: #6B9AC1;
-  box-shaddow: 0px 3px 0px 0px;
   font-size: 20px;
   font-family: arial;
   font-weight: 400;
   color: #FFFFFF;
+  box-shadow: 0px 3px 0px 0px;
 }
   
   .contact-form textarea{
@@ -235,7 +234,7 @@ a.social:hover {
   border: none;
   border-radius: 4px;
   background-color: #6B9AC1;
-  box-shaddow: 0px 3px 0px 0px;
+  box-shadow: 0px 3px 0px 0px;
   font-size: 20px;
   font-family: arial;
   font-weight: 400;
@@ -246,7 +245,7 @@ a.social:hover {
 
  .dog4{
     width: 250px;
-    height: 450px
+    height: 450px;
     background-position: 50% 50%;}
     /* tall img */
 
